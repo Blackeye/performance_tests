@@ -1,0 +1,6 @@
+/
+/tour
+/contact
+/pricing
+/contact
+/blog

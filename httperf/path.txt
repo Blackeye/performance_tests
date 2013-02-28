@@ -1,0 +1,7 @@
+/authentications
+/login
+/user_sessions method=POST contents="user_session%5Bemail%5D=test%40test.com&user_session%5Bpassword%5D=test&user_session%5Bremember_me%5D=1"
+/basic_simulation/new
+/profile
+/dashboard
+/logout

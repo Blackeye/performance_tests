@@ -1,0 +1,1 @@
+autobench --single_host --host1 esso-gym.herokuapp.com --uri1 /ajax/users?term=as --num_conn 1000 --low_rate 80 --rate_step 20 --high_rate 200 --num_call 1 --timeout 5 --file results.csv

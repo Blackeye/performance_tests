@@ -1,0 +1,10 @@
+dem_req_rate	req_rate_esso-gym.herokuapp.com	con_rate_esso-gym.herokuapp.com	min_rep_rate_esso-gym.herokuapp.com	avg_rep_rate_esso-gym.herokuapp.com	max_rep_rate_esso-gym.herokuapp.com	stddev_rep_rate_esso-gym.herokuapp.com	resp_time_esso-gym.herokuapp.com	net_io_esso-gym.herokuapp.com	errors_esso-gym.herokuapp.com
+40	39.6	39.6	37.8	39.6	40.2	1.0	117.2	262.5	0
+60	59.1	59.1	56.8	59.0	60.8	2.0	102.2	391.9	0
+80	75.6	75.6	74.2	74.7	75.2	0.7	339.9	501.3	0
+100	69.7	69.7	45.4	55.1	64.8	13.7	2313.5	433.9	6.49627263045793
+120	64.4	65.1	36.6	56.5	75.4	19.4	1737.3	367.0	17.7856301531213
+140	70.2	70.4	62.2	64.0	65.8	2.6	1885.6	346.8	35.1351351351351
+160	70.7	70.7	59.0	61.3	63.6	3.3	2000.6	318.8	47.7104874446086
+180	78.7	78.7	10.2	15.0	19.8	6.8	2865.2	83.2	566.666666666667
+200	86.6	86.6	4.2	8.3	12.4	5.8	3262.9	35.9	1104.81927710843

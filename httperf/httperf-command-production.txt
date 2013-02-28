@@ -1,0 +1,1 @@
+httperf --wsesslog=10,2,simple_paths.txt --rate=1 --timeout=5 --server=easyretirementplanning.ca --port=5000 --uri=/
